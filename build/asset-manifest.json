@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b00d9a3f.chunk.css",
+    "main.js": "/static/js/main.375c8d54.chunk.js",
+    "main.js.map": "/static/js/main.375c8d54.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5f7de951.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5f7de951.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.e74e21c8.chunk.js": "/static/js/2.e74e21c8.chunk.js",
+    "static/js/2.e74e21c8.chunk.js.map": "/static/js/2.e74e21c8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.b00d9a3f.chunk.css.map": "/static/css/main.b00d9a3f.chunk.css.map",
+    "static/js/2.e74e21c8.chunk.js.LICENSE.txt": "/static/js/2.e74e21c8.chunk.js.LICENSE.txt",
+    "static/media/email.jpg": "/static/media/email.9caa8d67.jpg",
+    "static/media/fogão.jpg": "/static/media/fogão.1bc6b8e8.jpg",
+    "static/media/formasdepagamento.png": "/static/media/formasdepagamento.4e20850f.png",
+    "static/media/geladeira.jpg": "/static/media/geladeira.28baf338.jpg",
+    "static/media/lavadora.jpg": "/static/media/lavadora.532f4865.jpg",
+    "static/media/logo.png": "/static/media/logo.936e4157.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.03103218.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f7de951.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.e74e21c8.chunk.js",
+    "static/css/main.b00d9a3f.chunk.css",
+    "static/js/main.375c8d54.chunk.js"
+  ]
+}

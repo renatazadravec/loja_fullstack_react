@@ -1,0 +1,17 @@
+.footer {
+  padding-top: 10px;
+}
+.footer h4 {
+  color: red;
+}
+.footer div {
+  text-align: center;
+}
+.footer div img {
+  width: 35%;
+}
+.footer .barra-footer {
+  background: teal;
+  color: #f2f2f2;
+  padding: 10px;
+}

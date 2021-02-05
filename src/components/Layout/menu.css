@@ -1,0 +1,18 @@
+.menunav {
+    background-color: teal;
+    width: 100%;
+  }
+.menunav .logo{
+    width: 20%;
+  }
+.menunav .logo img{
+    width: 100%;
+  }
+.menunav .menu{
+    width: 80%;
+    justify-content: space-between;
+  }
+.menunav .item{
+    color: #fff!important;
+    text-decoration: none;
+  }

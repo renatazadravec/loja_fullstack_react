@@ -1,0 +1,22 @@
+.itemproduto {
+  height: 320px;
+  padding: 30px;
+  box-sizing: border-box;
+}
+.itemproduto img {
+  width: 170px;
+  cursor: pointer;
+}
+.itemproduto .titulo {
+  margin-top: 8px;
+  font-size: 14px;
+}
+.itemproduto span.original {
+  font-size: 14px;
+  color: red;
+  text-decoration: line-through;
+  display: block;
+}
+.itemproduto span.promocao {
+  font-size: 14px;
+}

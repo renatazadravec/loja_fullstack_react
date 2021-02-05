@@ -1,0 +1,25 @@
+/* INICIO PAGINA DE CONTATO */
+.pagina-contato .contatos {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px 0;
+}
+.pagina-contato .contatos .contato {
+  text-align: center;
+}
+.pagina-contato .contatos .contato img {
+  width: 40px;
+  margin-bottom: 8px;
+}
+.pagina-contato .contatos .contato p {
+  font-size: 14px;
+}
+
+.pagina-contato form button:hover,
+.pagina-contato form button {
+  padding: 10px 30px;
+  cursor: pointer;
+  color: #f2f2f2;
+  background-color: teal;
+  border: 0;
+}
