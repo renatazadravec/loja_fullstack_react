@@ -46,3 +46,5 @@ export const Menu = () => {
     </Navbar>
   );
 };
+
+export default Menu;

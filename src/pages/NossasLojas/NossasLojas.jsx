@@ -1,6 +1,9 @@
+import {lazy, Suspense } from "react";
 import { Row } from "react-bootstrap";
 import { PageTitle } from "../../components";
-import { CardEndereco } from "./CardEndereco";
+//import { CardEndereco } from "./CardEndereco";
+
+const CardEndereco = lazy (()=>import("./CardEndereco"))
 
 export default () => {
   const enderecosData = [
@@ -35,7 +38,7 @@ export default () => {
 
       <Row className="mt-5">
         {enderecosData.map((endereco, key) => (
-          <CardEndereco key={key} data={endereco} />
+          <Suspense fallback={<p>Carregando...</p>}><CardEndereco key={key} data={endereco} /></Suspense>
         ))}
       </Row>
     </>

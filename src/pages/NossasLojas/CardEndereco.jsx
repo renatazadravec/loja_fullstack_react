@@ -13,3 +13,5 @@ export const CardEndereco = ({ data }) => {
     </Col >
   );
 };
+
+export default CardEndereco;

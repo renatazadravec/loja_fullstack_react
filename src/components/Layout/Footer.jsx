@@ -1,7 +1,6 @@
 import imagembandeiracard from "../../images/formasdepagamento.png"
 import "./footer.css"
 
-
 export const Footer = () => {
   return (
     <footer className="footer">
@@ -16,3 +15,4 @@ export const Footer = () => {
     </footer>
   );
 };
+export default Footer;
